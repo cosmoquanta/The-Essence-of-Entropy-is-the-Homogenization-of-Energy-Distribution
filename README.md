@@ -1,2 +1,7 @@
-# The-Essence-of-Entropy-is-the-Homogenization-of-Energy-Distribution
-How to understand the concept of Entropy
+# The Essence of Entropy is the Homogenization of Energy Distribution
+
+How to understand the concept of Entropy?
+
+Multiplicative entropy provides a precise way to characterize each step of state transitions in a topologically homeomorphic quantum space. In this framework, the space is composed of discrete units known as Space Elementary Quanta (SEQ), which form a dynamic quantum-elastic network. Each transformation of this network corresponds to a specific entropy value, calculated as the multiplicative product of the energy norms of all SEQ involved in that transformation. This means that every change in the spatial configuration—such as energy redistribution among SEQ—leads to a calculable increase in entropy. The total energy of the system remains constant, but the way it is distributed across SEQ changes, and this distribution becomes more uniform over time. The entropy reaches its maximum when all SEQ carry nearly equal energy, differing only by discrete Planck-scale units. This model ensures that each state transition is uniquely associated with an entropy value, making it possible to track the irreversible progression of time through the system's evolution. As energy spreads out and the distribution becomes more homogeneous, the multiplicative entropy increases step by step, reflecting the natural tendency of the system toward equilibrium. This approach not only defines entropy in a physically intuitive way but also links it directly to the microscopic dynamics of space itself, offering a foundation for understanding time's arrow in a quantum spacetime context.
+
+The full text of Preprint of this model: Zou, Z. K. (2025). Multiplicative Entropy Encodes Time-Causality; Gauge Mediates Mass-Gravity; Frequency Mirrors Metric-Geometry. Zenodo. https://doi.org/10.5281/zenodo.15278220
